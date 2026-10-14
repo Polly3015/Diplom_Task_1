@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @ExtendWith(MockitoExtension.class)
 public class IngredientTest {
 
-    private IngredientType type = IngredientType.SAUCE;;
+    private IngredientType type = IngredientType.SAUCE;
     private String name = "Котлета";
     private float price = 20;
 
